@@ -1,0 +1,76 @@
+2025-06-15 14:43:42,756 - utils - INFO - utils模块初始化完成
+2025-06-15 14:46:39,701 - utils - INFO - utils模块初始化完成
+2025-06-15 14:53:26,499 - utils - INFO - utils模块初始化完成
+2025-06-15 15:04:06,410 - utils - INFO - utils模块初始化完成
+2025-06-15 15:18:01,164 - utils - INFO - utils模块初始化完成
+2025-06-15 15:28:16,619 - utils - INFO - utils模块初始化完成
+2025-06-15 15:29:41,119 - utils - INFO - utils模块初始化完成
+2025-06-15 15:29:42,013 - utils - INFO - 开始训练降噪模型
+2025-06-15 15:35:52,844 - utils - INFO - utils模块初始化完成
+2025-06-15 15:41:46,246 - utils - INFO - utils模块初始化完成
+2025-06-15 15:41:47,159 - utils - INFO - 训练新降噪模型
+2025-06-15 15:41:47,159 - utils - INFO - 开始训练降噪模型
+2025-06-15 15:41:47,160 - utils - INFO - 加载原始数据和降噪数据
+2025-06-15 15:41:47,908 - utils - INFO - 处理样本数据...
+2025-06-15 15:41:54,484 - utils - INFO - 预处理完成，共处理 6972 条记录
+2025-06-15 15:41:54,507 - utils - INFO - 训练集大小: 5577, 测试集大小: 1395
+2025-06-15 15:41:54,510 - utils - INFO - 正例比例: 0.44
+2025-06-15 15:41:54,748 - utils - INFO - 降噪模型评估报告:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       779
+           1       1.00      1.00      1.00       616
+
+    accuracy                           1.00      1395
+   macro avg       1.00      1.00      1.00      1395
+weighted avg       1.00      1.00      1.00      1395
+
+2025-06-15 15:41:54,794 - utils - INFO - 降噪模型已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\models\denoising_model.pkl
+2025-06-15 15:41:54,796 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 15:44:07,549 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 15:44:07,554 - utils - INFO - 噪声抑制处理完成
+2025-06-15 15:49:38,734 - utils - INFO - utils模块初始化完成
+2025-06-15 15:49:40,012 - utils - INFO - 成功加载 attachment1.xlsx, 形状: (816, 303)
+2025-06-15 15:49:41,174 - utils - INFO - 成功加载 attachment2.xlsx, 形状: (801, 303)
+2025-06-15 15:49:42,181 - utils - INFO - 成功加载 attachment3.xlsx, 形状: (50, 18)
+2025-06-15 15:49:42,519 - utils - INFO - 成功加载 attachment4.xlsx, 形状: (816, 72)
+2025-06-15 15:50:00,814 - utils - INFO - 加载现有降噪模型
+2025-06-15 15:50:00,873 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 15:51:16,180 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 15:51:16,180 - utils - INFO - 噪声抑制处理完成
+2025-06-15 16:00:58,203 - utils - INFO - utils模块初始化完成
+2025-06-15 16:01:00,079 - utils - INFO - 成功加载 attachment1.xlsx, 形状: (816, 303)
+2025-06-15 16:01:01,280 - utils - INFO - 成功加载 attachment2.xlsx, 形状: (801, 303)
+2025-06-15 16:01:02,405 - utils - INFO - 成功加载 attachment3.xlsx, 形状: (50, 18)
+2025-06-15 16:01:02,741 - utils - INFO - 成功加载 attachment4.xlsx, 形状: (816, 72)
+2025-06-15 16:01:22,499 - utils - INFO - 加载现有降噪模型
+2025-06-15 16:01:22,518 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 16:02:37,246 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 16:02:37,246 - utils - INFO - 噪声抑制处理完成
+2025-06-15 16:08:13,256 - utils - INFO - utils模块初始化完成
+2025-06-15 16:08:14,821 - utils - INFO - 成功加载 attachment1.xlsx, 形状: (816, 303)
+2025-06-15 16:08:16,059 - utils - INFO - 成功加载 attachment2.xlsx, 形状: (801, 303)
+2025-06-15 16:08:17,236 - utils - INFO - 成功加载 attachment3.xlsx, 形状: (50, 18)
+2025-06-15 16:08:17,602 - utils - INFO - 成功加载 attachment4.xlsx, 形状: (816, 72)
+2025-06-15 16:08:36,375 - utils - INFO - 加载现有降噪模型
+2025-06-15 16:08:36,405 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 16:09:59,615 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 16:10:00,885 - utils - INFO - 噪声抑制处理完成
+2025-06-15 16:18:08,276 - utils - INFO - utils模块初始化完成
+2025-06-15 16:18:11,539 - utils - INFO - 成功加载 attachment1.xlsx, 形状: (816, 303)
+2025-06-15 16:18:12,667 - utils - INFO - 成功加载 attachment2.xlsx, 形状: (801, 303)
+2025-06-15 16:18:13,736 - utils - INFO - 成功加载 attachment3.xlsx, 形状: (50, 18)
+2025-06-15 16:18:14,220 - utils - INFO - 成功加载 attachment4.xlsx, 形状: (816, 72)
+2025-06-15 16:18:34,388 - utils - INFO - 加载现有降噪模型
+2025-06-15 16:18:34,416 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 16:19:37,582 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 16:19:37,584 - utils - INFO - 噪声抑制处理完成
+2025-06-15 16:26:11,736 - utils - INFO - utils模块初始化完成
+2025-06-15 16:26:13,163 - utils - INFO - 加载现有降噪模型
+2025-06-15 16:26:13,183 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 16:29:11,779 - utils - INFO - utils模块初始化完成
+2025-06-15 16:29:14,206 - utils - INFO - 加载现有降噪模型
+2025-06-15 16:29:14,226 - utils - INFO - 对 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\raw\attachment4.xlsx 应用降噪模型
+2025-06-15 16:31:39,176 - utils - INFO - 降噪结果已保存至 C:\Users\86187\OneDrive\文档\桌面\STR分析\data\processed\denoised_attachment4.xlsx
+2025-06-15 16:31:43,756 - utils - INFO - 生成4个可视化图表并保存到 C:\Users\86187\OneDrive\文档\桌面\STR分析\results
+2025-06-15 16:31:43,756 - utils - INFO - 噪声抑制处理完成

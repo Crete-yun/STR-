@@ -1,0 +1,1693 @@
+{
+    "results": [
+        {
+            "sample": "A02_RD14-0003-40_41-1;4-M3S30-0.075IP-Q4.0_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41"
+            ],
+            "predicted_contributors": [
+                "45",
+                "39"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 10,
+            "n_contributors": 2
+        },
+        {
+            "sample": "A02_RD14-0003-40_41_42_43-1;1;1;1-M4I35-0.124IP-QLAND_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "40",
+                "21",
+                "27",
+                "43"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 28,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A02_RD14-0003-41_42_43-1;9;1-M2c-0.165IP-Q1.1_001.5sec.fsa",
+            "true_contributors": [
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "36",
+                "42",
+                "43"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 26,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A02_RD14-0003-44_45-1;1-M4d-0.031IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "38",
+                "45"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 10,
+            "n_contributors": 2
+        },
+        {
+            "sample": "A02_RD14-0003-50_29_30_31-1;1;2;1-M3c-0.075IP-Q0.5_001.5sec.fsa",
+            "true_contributors": [
+                "50",
+                "29",
+                "30",
+                "31"
+            ],
+            "predicted_contributors": [
+                "27",
+                "31",
+                "29",
+                "30"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 30,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A03_RD14-0003-40_41-1;4-M4a-0.075IP-Q0.6_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41"
+            ],
+            "predicted_contributors": [
+                "41",
+                "24"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 28,
+            "n_contributors": 2
+        },
+        {
+            "sample": "A03_RD14-0003-41_42_43-1;9;1-M2e-0.165IP-Q1.7_001.5sec.fsa",
+            "true_contributors": [
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "48",
+                "33",
+                "22"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 20,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A03_RD14-0003-43_44_45_46_47-1;1;2;1;1-M3e-0.09IP-Q2.0_001.5sec.fsa",
+            "true_contributors": [
+                "43",
+                "44",
+                "45",
+                "46",
+                "47"
+            ],
+            "predicted_contributors": [
+                "49",
+                "2",
+                "18",
+                "28",
+                "13"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 6,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A03_RD14-0003-44_45_46_47-1;1;4;1-M3I35-0.441IP-QLAND_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45",
+                "46",
+                "47"
+            ],
+            "predicted_contributors": [
+                "44",
+                "47",
+                "46",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A03_RD14-0003-46_47_48-1;1;1-M3S10-0.045IP-Q1.4_001.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "34",
+                "20",
+                "28"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 10,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A03_RD14-0003-50_29_30_31-1;1;2;1-M3e-0.075IP-Q1.1_001.5sec.fsa",
+            "true_contributors": [
+                "50",
+                "29",
+                "30",
+                "31"
+            ],
+            "predicted_contributors": [
+                "17",
+                "37",
+                "14",
+                "30"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 14,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A04_RD14-0003-32_33_34_35-1;1;9;1-M2c-0.372IP-Q0.4_001.5sec.fsa",
+            "true_contributors": [
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            "predicted_contributors": [
+                "34",
+                "45",
+                "18",
+                "32"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 29,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A04_RD14-0003-40_41-1;4-M3e-0.155IP-Q0.8_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41"
+            ],
+            "predicted_contributors": [
+                "41",
+                "35"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 28,
+            "n_contributors": 2
+        },
+        {
+            "sample": "A04_RD14-0003-44_45_46-1;2;2-M3c-0.155IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45",
+                "46"
+            ],
+            "predicted_contributors": [
+                "46",
+                "44",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 28,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A04_RD14-0003-48_49_50_29-1;4;4;4-M3I22-0.403IP-Q1.7_001.5sec.fsa",
+            "true_contributors": [
+                "48",
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "50",
+                "30",
+                "27",
+                "29"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 27,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A04_RD14-0003-48_49_50_29_30-1;1;2;4;1-M2c-0.279IP-Q1.4_001.5sec.fsa",
+            "true_contributors": [
+                "48",
+                "49",
+                "50",
+                "29",
+                "30"
+            ],
+            "predicted_contributors": [
+                "12",
+                "29",
+                "36",
+                "50",
+                "34"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 28,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A05_RD14-0003-30_31_32_33_34-1;1;1;1;1-M3I22-0.315IP-Q1.3_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "36",
+                "13",
+                "34",
+                "4",
+                "37"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 31,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A05_RD14-0003-32_33_34_35-1;1;9;1-M2e-0.372IP-Q0.6_001.5sec.fsa",
+            "true_contributors": [
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            "predicted_contributors": [
+                "35",
+                "34",
+                "30",
+                "47"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 29,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A05_RD14-0003-42_43-1;9-M2d-0.31IP-Q0.8_001.5sec.fsa",
+            "true_contributors": [
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "43",
+                "47"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 29,
+            "n_contributors": 2
+        },
+        {
+            "sample": "A05_RD14-0003-44_45_46-1;2;2-M2e-0.155IP-Q2.9_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45",
+                "46"
+            ],
+            "predicted_contributors": [
+                "45",
+                "18",
+                "46"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 20,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A05_RD14-0003-46_47_48-1;1;1-M3I22-0.189IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "43",
+                "48",
+                "47"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 28,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A05_RD14-0003-48_49_50_29_30-1;1;2;4;1-M2e-0.279IP-Q3.6_001.5sec.fsa",
+            "true_contributors": [
+                "48",
+                "49",
+                "50",
+                "29",
+                "30"
+            ],
+            "predicted_contributors": [
+                "15",
+                "47",
+                "11",
+                "35",
+                "32"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 22,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A06_RD14-0003-30_31_32_33_34-1;1;1;1;1-M1S30-0.315IP-Q2.4_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "40",
+                "43",
+                "14",
+                "33",
+                "30"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 18,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A06_RD14-0003-31_32_33_34_35-1;1;2;9;1-M3a-0.21IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "31",
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            "predicted_contributors": [
+                "8",
+                "27",
+                "34",
+                "1",
+                "22"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 30,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A06_RD14-0003-33_34_35_36-1;4;4;1-M2c-0.63IP-Q0.8_001.5sec.fsa",
+            "true_contributors": [
+                "33",
+                "34",
+                "35",
+                "36"
+            ],
+            "predicted_contributors": [
+                "47",
+                "45",
+                "36",
+                "34"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 30,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A06_RD14-0003-33_34_35_36_37-1;1;4;1;1-M3I15-0.248IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "33",
+                "34",
+                "35",
+                "36",
+                "37"
+            ],
+            "predicted_contributors": [
+                "36",
+                "34",
+                "35",
+                "9",
+                "20"
+            ],
+            "accuracy": 0.6,
+            "matching_score": 32,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A06_RD14-0003-47_48_49-1;9;9-M2c-0.589IP-Q1.1_001.5sec.fsa",
+            "true_contributors": [
+                "47",
+                "48",
+                "49"
+            ],
+            "predicted_contributors": [
+                "49",
+                "48",
+                "15"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 29,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A06_RD14-0003-49_50_29-1;4;1-M3I15-0.186IP-Q0.9_001.5sec.fsa",
+            "true_contributors": [
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "4",
+                "50",
+                "19"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 29,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A07_RD14-0003-30_31_32-1;4;4-M3I15-0.567IP-Q1.1_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32"
+            ],
+            "predicted_contributors": [
+                "31",
+                "36",
+                "49"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 26,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A07_RD14-0003-30_31_32_33_34-1;1;1;1;1-M2d-0.075IP-Q2.8_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "31",
+                "13",
+                "48",
+                "47",
+                "12"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 14,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A07_RD14-0003-31_32_33_34_35-1;1;2;9;1-M3d-0.21IP-Q1.8_001.5sec.fsa",
+            "true_contributors": [
+                "31",
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            "predicted_contributors": [
+                "24",
+                "40",
+                "9",
+                "25",
+                "23"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 20,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A07_RD14-0003-33_34_35_36-1;4;4;1-M1e-0.63IP-Q1.2_001.5sec.fsa",
+            "true_contributors": [
+                "33",
+                "34",
+                "35",
+                "36"
+            ],
+            "predicted_contributors": [
+                "35",
+                "9",
+                "34",
+                "33"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 28,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A07_RD14-0003-35_36_37_38_39-1;4;4;4;1-M2I15-0.75IP-Q1.0_001.5sec.fsa",
+            "true_contributors": [
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "20",
+                "38",
+                "36",
+                "49",
+                "35"
+            ],
+            "accuracy": 0.6,
+            "matching_score": 31,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A07_RD14-0003-35_36_37_38_39-1;4;4;4;1-M2U105-0.434IP-Q9.1_001.5sec.fsa",
+            "true_contributors": [
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "27",
+                "39",
+                "37",
+                "36",
+                "35"
+            ],
+            "accuracy": 0.8,
+            "matching_score": 26,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A07_RD14-0003-46_47_48-1;1;1-M4d-0.045IP-Q0.6_001.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "43",
+                "47",
+                "35"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 18,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A07_RD14-0003-47_48_49-1;9;9-M1e-0.589IP-Q2.2_001.5sec.fsa",
+            "true_contributors": [
+                "47",
+                "48",
+                "49"
+            ],
+            "predicted_contributors": [
+                "49",
+                "48",
+                "13"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 32,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A08_RD14-0003-30_31_32-1;4;4-M3I35-0.279IP-QLAND_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32"
+            ],
+            "predicted_contributors": [
+                "31",
+                "14",
+                "32"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 32,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A08_RD14-0003-35_36_37_38_39-1;4;4;4;1-M3I35-0.434IP-QLAND_001.5sec.fsa",
+            "true_contributors": [
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "15",
+                "7",
+                "36",
+                "38",
+                "32"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 27,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A08_RD14-0003-36_37_38_39_40-1;9;9;9;1-M2a-0.5IP-Q0.7_001.5sec.fsa",
+            "true_contributors": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "predicted_contributors": [
+                "43",
+                "37",
+                "44",
+                "39",
+                "11"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 29,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A08_RD14-0003-37_38_39_40-1;9;9;1-M2a-0.5IP-Q0.4_001.5sec.fsa",
+            "true_contributors": [
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "predicted_contributors": [
+                "22",
+                "34",
+                "39",
+                "32"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 31,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A08_RD14-0003-49_50_29-1;4;1-M3a-0.186IP-Q0.5_001.5sec.fsa",
+            "true_contributors": [
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "49",
+                "50",
+                "30"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 32,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A09_RD14-0003-36_37_38_39_40-1;9;9;9;1-M2d-0.5IP-Q1.6_001.5sec.fsa",
+            "true_contributors": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "predicted_contributors": [
+                "22",
+                "39",
+                "37",
+                "34",
+                "30"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 32,
+            "n_contributors": 5
+        },
+        {
+            "sample": "A09_RD14-0003-37_38_39_40-1;9;9;1-M2d-0.5IP-Q0.7_001.5sec.fsa",
+            "true_contributors": [
+                "37",
+                "38",
+                "39",
+                "40"
+            ],
+            "predicted_contributors": [
+                "37",
+                "38",
+                "39",
+                "36"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 32,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A09_RD14-0003-49_50_29-1;4;1-M3e-0.186IP-Q1.6_001.5sec.fsa",
+            "true_contributors": [
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "17",
+                "50",
+                "49"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 22,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A10_RD14-0003-30_31_32-1;4;4-M2d-0.567IP-Q0.6_001.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32"
+            ],
+            "predicted_contributors": [
+                "30",
+                "31",
+                "32"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 29,
+            "n_contributors": 3
+        },
+        {
+            "sample": "A10_RD14-0003-48_49_50_29-1;4;4;4-M2a-0.5IP-Q0.4_001.5sec.fsa",
+            "true_contributors": [
+                "48",
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "29",
+                "16",
+                "13",
+                "50"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 28,
+            "n_contributors": 4
+        },
+        {
+            "sample": "A11_RD14-0003-48_49_50_29-1;4;4;4-M2d-0.5IP-Q0.7_001.5sec.fsa",
+            "true_contributors": [
+                "48",
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "50",
+                "29",
+                "49",
+                "46"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 32,
+            "n_contributors": 4
+        },
+        {
+            "sample": "B01_RD14-0003-40_41_42_43-1;1;1;1-M3a-0.5IP-Q0.9_002.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "40",
+                "43",
+                "42",
+                "38"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 30,
+            "n_contributors": 4
+        },
+        {
+            "sample": "B01_RD14-0003-44_45-1;1-M2S30-0.25IP-Q3.0_002.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "44",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 20,
+            "n_contributors": 2
+        },
+        {
+            "sample": "B01_RD14-0003-44_45-1;1-M3a-0.25IP-Q0.5_002.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 2
+        },
+        {
+            "sample": "B02_RD14-0003-40_41_42_43-1;1;1;1-M2e-0.5IP-Q3.2_002.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "15",
+                "16",
+                "32",
+                "14"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 24,
+            "n_contributors": 4
+        },
+        {
+            "sample": "B02_RD14-0003-42_43-1;9-M1S10-0.75IP-Q1.2_002.5sec.fsa",
+            "true_contributors": [
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "43",
+                "42"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 30,
+            "n_contributors": 2
+        },
+        {
+            "sample": "B02_RD14-0003-44_45-1;1-M2e-0.25IP-Q0.8_002.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 2
+        },
+        {
+            "sample": "B05_RD14-0003-40_41_42_43-1;1;1;1-M3S10-0.06IP-Q1.5_002.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "28",
+                "31",
+                "23",
+                "42"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 2,
+            "n_contributors": 4
+        },
+        {
+            "sample": "B06_RD14-0003-30_31_32_33_34-1;1;1;1;1-M2S30-0.155IP-Q2.9_002.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "47",
+                "17",
+                "49",
+                "10",
+                "15"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 6,
+            "n_contributors": 5
+        },
+        {
+            "sample": "B06_RD14-0003-30_31_32_33_34-1;1;1;1;1-M2a-0.625IP-Q0.7_002.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "1",
+                "32",
+                "30",
+                "43",
+                "36"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 29,
+            "n_contributors": 5
+        },
+        {
+            "sample": "B06_RD14-0003-46_47_48-1;1;1-M2a-0.375IP-Q0.4_002.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "47",
+                "46",
+                "48"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 30,
+            "n_contributors": 3
+        },
+        {
+            "sample": "B07_RD14-0003-30_31_32_33_34-1;1;1;1;1-M1e-0.625IP-Q1.9_002.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "34",
+                "17",
+                "7",
+                "37",
+                "36"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 27,
+            "n_contributors": 5
+        },
+        {
+            "sample": "B07_RD14-0003-46_47_48-1;1;1-M2e-0.375IP-Q1.0_002.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "48",
+                "47",
+                "46"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 30,
+            "n_contributors": 3
+        },
+        {
+            "sample": "C01_RD14-0003-40_41_42_43-1;1;1;1-M3a-0.252IP-Q0.9_003.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "42",
+                "37",
+                "40",
+                "43"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 32,
+            "n_contributors": 4
+        },
+        {
+            "sample": "C01_RD14-0003-44_45-1;1-M2S30-0.126IP-Q3.0_003.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 14,
+            "n_contributors": 2
+        },
+        {
+            "sample": "C01_RD14-0003-44_45-1;1-M3a-0.126IP-Q0.5_003.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "44",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 2
+        },
+        {
+            "sample": "C02_RD14-0003-40_41_42_43-1;1;1;1-M2e-0.252IP-Q3.2_003.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "9",
+                "42",
+                "15",
+                "21"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 18,
+            "n_contributors": 4
+        },
+        {
+            "sample": "C06_RD14-0003-30_31_32_33_34-1;1;1;1;1-M2S30-0.075IP-Q2.9_003.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "30",
+                "25",
+                "28",
+                "6",
+                "19"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 4,
+            "n_contributors": 5
+        },
+        {
+            "sample": "C06_RD14-0003-30_31_32_33_34-1;1;1;1;1-M2a-0.315IP-Q0.7_003.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "31",
+                "13",
+                "17",
+                "49",
+                "32"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 31,
+            "n_contributors": 5
+        },
+        {
+            "sample": "C06_RD14-0003-46_47_48-1;1;1-M3a-0.189IP-Q0.5_003.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "9",
+                "47",
+                "48"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 28,
+            "n_contributors": 3
+        },
+        {
+            "sample": "C07_RD14-0003-30_31_32_33_34-1;1;1;1;1-M1e-0.315IP-Q1.9_003.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "25",
+                "30",
+                "38",
+                "46",
+                "11"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 26,
+            "n_contributors": 5
+        },
+        {
+            "sample": "C07_RD14-0003-46_47_48-1;1;1-M2e-0.189IP-Q1.0_003.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 28,
+            "n_contributors": 3
+        },
+        {
+            "sample": "D01_RD14-0003-40_41_42_43-1;1;1;1-M3a-0.124IP-Q0.9_004.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "42",
+                "27",
+                "43",
+                "20"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 28,
+            "n_contributors": 4
+        },
+        {
+            "sample": "D01_RD14-0003-44_45-1;1-M3S30-0.062IP-Q3.1_004.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "4",
+                "27"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 8,
+            "n_contributors": 2
+        },
+        {
+            "sample": "D01_RD14-0003-44_45-1;1-M3a-0.062IP-Q0.5_004.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 30,
+            "n_contributors": 2
+        },
+        {
+            "sample": "D02_RD14-0003-40_41_42_43-1;1;1;1-M2e-0.124IP-Q3.2_004.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "43",
+                "36",
+                "7",
+                "9"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 12,
+            "n_contributors": 4
+        },
+        {
+            "sample": "D02_RD14-0003-44_45-1;1-M4e-0.062IP-Q1.3_004.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "8",
+                "16"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 12,
+            "n_contributors": 2
+        },
+        {
+            "sample": "D06_RD14-0003-46_47_48-1;1;1-M3a-0.093IP-Q0.5_004.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "46",
+                "48",
+                "47"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 30,
+            "n_contributors": 3
+        },
+        {
+            "sample": "E01_RD14-0003-40_41_42_43-1;1;1;1-M4a-0.06IP-Q0.7_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "27",
+                "43",
+                "19",
+                "18"
+            ],
+            "accuracy": 0.25,
+            "matching_score": 24,
+            "n_contributors": 4
+        },
+        {
+            "sample": "E01_RD14-0003-44_45-1;1-M4S30-0.03IP-Q3.2_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "32",
+                "47"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 2,
+            "n_contributors": 2
+        },
+        {
+            "sample": "E01_RD14-0003-44_45-1;1-M4a-0.031IP-Q0.5_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 28,
+            "n_contributors": 2
+        },
+        {
+            "sample": "E02_RD14-0003-40_41_42_43-1;1;1;1-M4e-0.06IP-Q5.6_001.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "25",
+                "35",
+                "32",
+                "30"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 4,
+            "n_contributors": 4
+        },
+        {
+            "sample": "E02_RD14-0003-44_45-1;1-M4e-0.031IP-Q1.3_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "1",
+                "28"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 6,
+            "n_contributors": 2
+        },
+        {
+            "sample": "E03_RD14-0003-44_45_46_47-1;1;4;1-M2d-0.217IP-Q0.8_001.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45",
+                "46",
+                "47"
+            ],
+            "predicted_contributors": [
+                "20",
+                "12",
+                "45",
+                "46"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 29,
+            "n_contributors": 4
+        },
+        {
+            "sample": "E04_RD14-0003-36_37_38_39-1;2;2;1-M3a-0.186IP-Q0.7_001.5sec.fsa",
+            "true_contributors": [
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "15",
+                "49",
+                "38",
+                "36"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 31,
+            "n_contributors": 4
+        },
+        {
+            "sample": "E05_RD14-0003-36_37_38_39-1;2;2;1-M2e-0.378IP-Q1.2_001.5sec.fsa",
+            "true_contributors": [
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "47",
+                "37",
+                "36",
+                "9"
+            ],
+            "accuracy": 0.5,
+            "matching_score": 31,
+            "n_contributors": 4
+        },
+        {
+            "sample": "E06_RD14-0003-46_47_48-1;1;1-M3a-0.045IP-Q0.5_001.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "47",
+                "13",
+                "43"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 28,
+            "n_contributors": 3
+        },
+        {
+            "sample": "E07_RD14-0003-46_47_48-1;1;1-M3e-0.093IP-Q0.8_001.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "24",
+                "42",
+                "1"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 14,
+            "n_contributors": 3
+        },
+        {
+            "sample": "F01_RD14-0003-44_45-1;1-M2d-0.25IP-Q0.7_002.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "44",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 28,
+            "n_contributors": 2
+        },
+        {
+            "sample": "F02_RD14-0003-46_47_48-1;1;1-M2S10-0.375IP-Q1.2_002.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "48",
+                "9",
+                "46"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 26,
+            "n_contributors": 3
+        },
+        {
+            "sample": "F03_RD14-0003-49_50_29-1;4;1-M3S30-0.09IP-Q2.9_002.5sec.fsa",
+            "true_contributors": [
+                "49",
+                "50",
+                "29"
+            ],
+            "predicted_contributors": [
+                "20",
+                "49",
+                "24"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 6,
+            "n_contributors": 3
+        },
+        {
+            "sample": "F06_RD14-0003-46_47_48-1;1;1-M3d-0.375IP-Q0.5_002.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 3
+        },
+        {
+            "sample": "F07_RD14-0003-46_47_48-1;1;1-M3e-0.045IP-Q0.8_002.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "27",
+                "41",
+                "20"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 12,
+            "n_contributors": 3
+        },
+        {
+            "sample": "G01_RD14-0003-44_45-1;1-M3d-0.126IP-Q0.5_003.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "45",
+                "44"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 28,
+            "n_contributors": 2
+        },
+        {
+            "sample": "G02_RD14-0003-46_47_48-1;1;1-M2S10-0.189IP-Q1.2_003.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "2",
+                "26",
+                "46"
+            ],
+            "accuracy": 0.3333333333333333,
+            "matching_score": 18,
+            "n_contributors": 3
+        },
+        {
+            "sample": "G04_RD14-0003-40_41_42_43-1;1;1;1-M1S10-0.5IP-Q1.3_003.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "42",
+                "40",
+                "43",
+                "11"
+            ],
+            "accuracy": 0.75,
+            "matching_score": 32,
+            "n_contributors": 4
+        },
+        {
+            "sample": "G06_RD14-0003-46_47_48-1;1;1-M4d-0.189IP-Q0.6_003.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 32,
+            "n_contributors": 3
+        },
+        {
+            "sample": "H01_RD14-0003-44_45-1;1-M4d-0.062IP-Q0.9_004.5sec.fsa",
+            "true_contributors": [
+                "44",
+                "45"
+            ],
+            "predicted_contributors": [
+                "44",
+                "45"
+            ],
+            "accuracy": 1.0,
+            "matching_score": 22,
+            "n_contributors": 2
+        },
+        {
+            "sample": "H02_RD14-0003-46_47_48-1;1;1-M3S10-0.093IP-Q1.4_004.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "48",
+                "46",
+                "24"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 20,
+            "n_contributors": 3
+        },
+        {
+            "sample": "H04_RD14-0003-40_41_42_43-1;1;1;1-M2S10-0.252IP-Q1.3_004.5sec.fsa",
+            "true_contributors": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "predicted_contributors": [
+                "18",
+                "19",
+                "34",
+                "32"
+            ],
+            "accuracy": 0.0,
+            "matching_score": 26,
+            "n_contributors": 4
+        },
+        {
+            "sample": "H05_RD14-0003-30_31_32_33_34-1;1;1;1;1-M1S30-0.625IP-Q2.4_004.5sec.fsa",
+            "true_contributors": [
+                "30",
+                "31",
+                "32",
+                "33",
+                "34"
+            ],
+            "predicted_contributors": [
+                "17",
+                "11",
+                "32",
+                "12",
+                "13"
+            ],
+            "accuracy": 0.2,
+            "matching_score": 22,
+            "n_contributors": 5
+        },
+        {
+            "sample": "H06_RD14-0003-46_47_48-1;1;1-M4d-0.093IP-Q0.6_004.5sec.fsa",
+            "true_contributors": [
+                "46",
+                "47",
+                "48"
+            ],
+            "predicted_contributors": [
+                "48",
+                "47",
+                "32"
+            ],
+            "accuracy": 0.6666666666666666,
+            "matching_score": 30,
+            "n_contributors": 3
+        },
+        {
+            "sample": "H07_RD14-0003-35_36_37_38_39-1;4;4;4;1-M2I35-0.75IP-QLAND_004.5sec.fsa",
+            "true_contributors": [
+                "35",
+                "36",
+                "37",
+                "38",
+                "39"
+            ],
+            "predicted_contributors": [
+                "9",
+                "17",
+                "37",
+                "13",
+                "39"
+            ],
+            "accuracy": 0.4,
+            "matching_score": 30,
+            "n_contributors": 5
+        }
+    ],
+    "overall_accuracy": 0.5085858585858585,
+    "num_samples": 99,
+    "skipped_samples": 0
+}

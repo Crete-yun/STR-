@@ -1,0 +1,57 @@
+{
+    "accuracy": 0.38461538461538464,
+    "confusion_matrix": [
+        [
+            1,
+            2,
+            0,
+            0
+        ],
+        [
+            1,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            2,
+            0,
+            0,
+            1
+        ]
+    ],
+    "class_distribution": {
+        "3": 16,
+        "2": 15,
+        "4": 11,
+        "5": 9
+    },
+    "feature_importance": {
+        "TotalMarkers": 0.0,
+        "TotalPeaks": 0.0,
+        "MeanImbalanceRatio": 0.0,
+        "MeanHeight": 0.0,
+        "MedianHeight": 0.0,
+        "HeightSumMean": 0.0,
+        "HeightRange": 0.0,
+        "Height90Percentile": 0.0,
+        "PeakCountStd": 0.0,
+        "UniqueAlleles": 0.0,
+        "RareAlleles": 0.0,
+        "Height10Percentile": 0.019214287500972205,
+        "MinImbalanceRatio": 0.04933594606793701,
+        "MaxImbalanceRatio": 0.050216606911638095,
+        "HeightSumStd": 0.06746223532737394,
+        "HeightCV": 0.09496101200629692,
+        "PeakCountMean": 0.1022488297750539,
+        "HeightKurt": 0.14276662149687613,
+        "HeightSkew": 0.20350912083000772,
+        "MaxPeaksPerMarker": 0.26091754528711597
+    }
+}
